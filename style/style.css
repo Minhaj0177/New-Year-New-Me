@@ -113,7 +113,7 @@ section {
 
 /* positive-mindset section related styles */
 .positive-mindset {
-  background-image: url("../images/gradient2.png"), url("/images/watch.png");
+  background-image: url("../images/gradient2.png"), url("../images/watch.png");
 }
 .positive-mindset-content {
   padding: 60px;
